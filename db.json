@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "id": "2",
+      "name": "Post One",
+      "operation": "This is the post body",
+      "ip": "161.111.130.01",
+      "type": "Cloud",
+      "scan": "Succes",
+      "application": "Service for ..",
+      "owner": "-",
+      "enviroment": "-",
+      "lifecycle": "Revise",
+      "tags": "-"
+    },
+    {
+      "id": "3",
+      "name": "Post One",
+      "operation": "This is the post body",
+      "ip": "161.111.130.01",
+      "type": "Cloud",
+      "scan": "Succes",
+      "application": "Service for ..",
+      "owner": "-",
+      "enviroment": "-",
+      "lifecycle": "Revise",
+      "tags": "-"
+    },
+    {
+      "operation": "Test",
+      "ip": "111",
+      "type": "test",
+      "scan": "test",
+      "application": "test",
+      "owner": "test",
+      "enviroment": "test",
+      "lifecycle": "test",
+      "tags": "test",
+      "id": "eP2zQ0N"
+    }
+  ],
+  "servers": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "john@example.com"
+    }
+  ]
+}
